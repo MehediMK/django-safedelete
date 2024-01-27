@@ -53,14 +53,28 @@ This project demonstrates the implementation of a Library Management System usin
     python manage.py runserver
     ```
 
-7. Access the Django admin interface at `http://127.0.0.1:8000/admin/` to add authors and books.
-
-8.  To load dummy data which was existing in fixtures directory
+7.  To load dummy data which was existing in fixtures directory
    ```bash
     python manage.py loaddata authors.json
     python manage.py loaddata books.json
    ```
 
+8. Access the Django admin interface at `http://127.0.0.1:8000/admin/` to add authors and books.
+---
+## Docker Instructions
+
+To run the project using Docker, follow these steps:
+
+1. Make sure Docker is installed on your system. If not, you can download and install Docker from [here](https://www.docker.com/get-started).
+
+2. Build the Docker image and start the container:
+
+    ```bash
+    docker-compose up --build
+    ```
+
+3. Access the Django project at `http://localhost:8000`.
+---
 ## Features
 
 - **Soft Delete**: Utilizes django-safedelete to implement soft delete functionality, allowing records to be marked as deleted without physically removing them from the database.
