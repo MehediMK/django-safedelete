@@ -1,0 +1,83 @@
+[
+    {
+      "model": "library.book",
+      "pk": 1,
+      "fields": {
+        "title": "Python Programming",
+        "author": 1
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 2,
+      "fields": {
+        "title": "Django Web Development",
+        "author": 2
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 3,
+      "fields": {
+        "title": "JavaScript Basics",
+        "author": 3
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 4,
+      "fields": {
+        "title": "Data Science Fundamentals",
+        "author": 4
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 5,
+      "fields": {
+        "title": "Algorithms and Data Structures",
+        "author": 5
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 6,
+      "fields": {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "author": 6
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 7,
+      "fields": {
+        "title": "Machine Learning Yearning",
+        "author": 7
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 8,
+      "fields": {
+        "title": "The Design of Everyday Things",
+        "author": 8
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 9,
+      "fields": {
+        "title": "Clean Code",
+        "author": 9
+      }
+    },
+    {
+      "model": "library.book",
+      "pk": 10,
+      "fields": {
+        "title": "Web Scraping with Python",
+        "author": 10
+      }
+    }
+  ]
+  

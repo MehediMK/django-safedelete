@@ -1,0 +1,73 @@
+[
+    {
+      "model": "library.author",
+      "pk": 1,
+      "fields": {
+        "name": "John Doe"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 2,
+      "fields": {
+        "name": "Jane Smith"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 3,
+      "fields": {
+        "name": "Michael Johnson"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 4,
+      "fields": {
+        "name": "Emily Brown"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 5,
+      "fields": {
+        "name": "David Wilson"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 6,
+      "fields": {
+        "name": "Sarah Miller"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 7,
+      "fields": {
+        "name": "James Davis"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 8,
+      "fields": {
+        "name": "Anna Martinez"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 9,
+      "fields": {
+        "name": "Daniel Taylor"
+      }
+    },
+    {
+      "model": "library.author",
+      "pk": 10,
+      "fields": {
+        "name": "Olivia Garcia"
+      }
+    }
+  ]
+  
